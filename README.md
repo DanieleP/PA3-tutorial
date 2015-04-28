@@ -26,4 +26,5 @@ To run the functions below, you need to download and read these two small csv fi
 [find_city_rank() and find_last_city()] (https://github.com/DanieleP/PA3-tutorial/blob/master/rankcity.md)
 
 5) How to return a data frame of specific rankings for each subset
+
 [rank_by_country()] (https://github.com/DanieleP/PA3-tutorial/blob/master/rankeachsubset.md)
