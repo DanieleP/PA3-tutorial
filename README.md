@@ -10,7 +10,8 @@ To run the functions below, you need to download and read these two small csv fi
 [citiesNA.csv](citiesNA.csv)
 
 1) How to order a data frame by the values in its columns
-sort_by_column () and sort_by_columns ()
+
+[sort_by_column () and sort_by_columns ()] (https://github.com/DanieleP/PA3-tutorial/blob/master/sortcolumns.md)
 
 2) How to manage NA when ordering data frames
 sort_by_column_NA()
