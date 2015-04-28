@@ -3,7 +3,7 @@
 
 Assignment 3 requries to manage a big database, rank hospitals by different factors and apply some complex criteria.
 To make the principles easier to be understood, I created smaller data frames and functions.
-There are plenty of ways to solve Assignment 3, and below you find just my suggestions. I'm sure there are better ways.
+There are plenty of ways to solve Assignment 3, and below you find just my suggestions. I'm sure there are better ways to do it.
 
 To run the functions below, you need to download and read these two small csv files:
 [cities.csv](cities.csv)
