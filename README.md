@@ -14,7 +14,8 @@ To run the functions below, you need to download and read these two small csv fi
 [sort_by_column () and sort_by_columns ()] (https://github.com/DanieleP/PA3-tutorial/blob/master/sortcolumns.md)
 
 2) How to manage NA when ordering data frames
-sort_by_column_NA()
+
+[sort_by_column_NA()](https://github.com/DanieleP/PA3-tutorial/blob/master/sortna.md)
 
 3) How to order only a specific subset of a data frame
 sort_country()
