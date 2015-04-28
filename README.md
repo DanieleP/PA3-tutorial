@@ -18,6 +18,7 @@ To run the functions below, you need to download and read these two small csv fi
 [sort_by_column_NA()](https://github.com/DanieleP/PA3-tutorial/blob/master/sortna.md)
 
 3) How to order only a specific subset of a data frame
+
 [sort_country()] (https://github.com/DanieleP/PA3-tutorial/blob/master/sortsubset.md)
 
 4) How to return a specific ranking after ordering
