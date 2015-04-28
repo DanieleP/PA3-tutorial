@@ -6,8 +6,8 @@ To make the principles easier to be understood, I created smaller data frames an
 There are plenty of ways to solve Assignment 3, and below you find just my suggestions. I'm sure there are better ways.
 
 To run the functions below, you need to download and read these two small csv files:
-cities.csv
-citiesNA.csv
+[cities.csv](cities.csv)
+[citiesNA.csv](citiesNA.csv)
 
 1) How to order a data frame by the values in its columns
 sort_by_column () and sort_by_columns ()
