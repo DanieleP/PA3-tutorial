@@ -22,7 +22,8 @@ To run the functions below, you need to download and read these two small csv fi
 [sort_country()] (https://github.com/DanieleP/PA3-tutorial/blob/master/sortsubset.md)
 
 4) How to return a specific ranking after ordering
-find_city_rank() and find_last_city()
+
+[find_city_rank() and find_last_city()] (https://github.com/DanieleP/PA3-tutorial/blob/master/rankcity.md)
 
 5) How to return a data frame of specific rankings for each subset
 rank_by_country()
